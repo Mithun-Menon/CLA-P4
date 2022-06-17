@@ -8,4 +8,5 @@ The project has the following funtions to contacts:
   5.Listing
   
 # Programmers:
-  Mithun Menon & Amartya Chatterjee
+  Mithun Menon
+  Amartya Chatterjee
